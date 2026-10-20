@@ -85,11 +85,11 @@ The project ideas below came from the supplied brief. I don’t have repository 
 
 The snake is not active yet. Once the repository workflow has been added and completed successfully, enable the image below:
 
-<!--
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/riokishanea/riokishanea/output/github-snake.svg" alt="Animated contribution graph snake for riokishanea">
 </p>
--->
+
 
 ## `// roadmap`
 
