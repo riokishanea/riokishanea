@@ -39,26 +39,6 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riokishanea/riokishanea/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> To activate this: add a GitHub Action (`platane/snk`) to your repo — see the setup note at the bottom of this file.
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riokishanea&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00F7FF&height=100&section=footer" />
-</p>
-
 <!--
 SETUP NOTES (delete this comment block once done):
 
