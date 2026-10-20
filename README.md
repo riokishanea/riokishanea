@@ -2,7 +2,7 @@
 
 <img src="assets/midnight-workspace.png" alt="A developer working at a desk beneath a violet midnight sky" width="100%">
 
-# Rio Kishan
+# Riokishan
 
 ### Computer Science Engineering Student
 
