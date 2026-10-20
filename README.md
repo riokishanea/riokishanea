@@ -71,12 +71,6 @@ The project ideas below came from the supplied brief. I don’t have repository 
 
 </div>
 
-## `// contribution activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riokishanea&amp;bg_color=0b0d12&amp;color=c7d2fe&amp;line=818cf8&amp;point=c7d2fe&amp;area=true&amp;hide_border=true" alt="Contribution activity graph for riokishanea" width="100%">
-
 *A quiet record of showing up, learning, and building over time.*
 
 </div>
