@@ -8,11 +8,15 @@
 <a href="mailto:workflow.riokishan@gmail.com"><img src="cards/tile-2.svg" alt="Freelance: Work with me" width="32.5%"/></a>
 </p>
 
-<p><img src="cards/activity.svg" alt="Contributions per month, Dec 2025 to Nov 2026. Current streak 1 day, 138 active days, busiest day 28 contributions on 12 Oct 2026." width="100%"/></p>
+<p><img src="cards/activity.svg" alt="Contributions per month, Dec 2025 to Nov 2026. Current streak 1 day, 51 active days, busiest day 17 contributions on 25 Jun 2026." width="100%"/></p>
 
-<p><a href="https://github.com/riokishanea/java-miniproject"><img src="cards/repo-1.svg" alt="java-miniproject: Student Skill Passport: a small Java Swing desktop application for students to keep a profile of their skills and projects. Faculty can view student profiles. The app uses MySQL to save its information. (Java, 0 stars)" width="100%"/></a></p>
-<p><a href="https://github.com/riokishanea/skew-thenewsapp"><img src="cards/repo-2.svg" alt="skew-thenewsapp: repository (TypeScript, 2 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/mlh-app"><img src="cards/repo-1.svg" alt="mlh-app: repository (Python, 0 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/movie-app-jsmastery"><img src="cards/repo-2.svg" alt="movie-app-jsmastery: Find Movies You'll Enjoy Without the Hassle (JavaScript, 0 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/zulip"><img src="cards/repo-3.svg" alt="zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused. (Python, 0 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/password-manager-cli"><img src="cards/repo-4.svg" alt="password-manager-cli: Basic password manager built in python. (Python, 1 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/quiz-cli"><img src="cards/repo-5.svg" alt="quiz-cli: Simple command line quiz with score tracking. (Python, 0 stars)" width="100%"/></a></p>
+<p><a href="https://github.com/riokishanea/skew-thenewsapp"><img src="cards/repo-6.svg" alt="skew-thenewsapp: repository (TypeScript, 0 stars)" width="100%"/></a></p>
 
-<p><img src="cards/graph.svg" alt="Contribution graph: 745 contributions in the last year" width="100%"/></p>
+<p><img src="cards/graph.svg" alt="Contribution graph: 156 contributions in the last year" width="100%"/></p>
 
 </div>
