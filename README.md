@@ -8,7 +8,7 @@
 <a href="mailto:workflow.riokishan@gmail.com"><img src="cards/tile-2.svg" alt="Freelance: Work with me" width="32.5%"/></a>
 </p>
 
-<p><img src="cards/activity.svg" alt="Contributions per month, Dec 2025 to Nov 2026. Current streak 1 day, 51 active days, busiest day 17 contributions on 25 Jun 2026." width="100%"/></p>
+<p><img src="cards/activity.svg" alt="Contributions per month, Dec 2025 to Nov 2026. Current streak 0 days, 51 active days, busiest day 17 contributions on 25 Jun 2026." width="100%"/></p>
 
 <p><a href="https://github.com/riokishanea/mlh-app"><img src="cards/repo-1.svg" alt="mlh-app: repository (Python, 0 stars)" width="100%"/></a></p>
 <p><a href="https://github.com/riokishanea/movie-app-jsmastery"><img src="cards/repo-2.svg" alt="movie-app-jsmastery: Find Movies You'll Enjoy Without the Hassle (JavaScript, 0 stars)" width="100%"/></a></p>
